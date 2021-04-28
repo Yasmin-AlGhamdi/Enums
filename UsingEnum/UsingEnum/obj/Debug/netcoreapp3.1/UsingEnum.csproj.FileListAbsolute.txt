@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\bin\Debug\netcoreapp3.1\UsingEnum.exe
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\bin\Debug\netcoreapp3.1\UsingEnum.deps.json
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\bin\Debug\netcoreapp3.1\UsingEnum.runtimeconfig.json
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\bin\Debug\netcoreapp3.1\UsingEnum.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\bin\Debug\netcoreapp3.1\UsingEnum.dll
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\bin\Debug\netcoreapp3.1\UsingEnum.pdb
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\obj\Debug\netcoreapp3.1\UsingEnum.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\obj\Debug\netcoreapp3.1\UsingEnum.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\obj\Debug\netcoreapp3.1\UsingEnum.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\obj\Debug\netcoreapp3.1\UsingEnum.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\obj\Debug\netcoreapp3.1\UsingEnum.dll
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\obj\Debug\netcoreapp3.1\UsingEnum.pdb
+C:\Users\Yasmin\source\repos\UsingEnum\UsingEnum\obj\Debug\netcoreapp3.1\UsingEnum.genruntimeconfig.cache
